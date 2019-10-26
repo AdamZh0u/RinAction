@@ -77,7 +77,6 @@ Highlight : == demo ==
 
     * 这么快就学完了一种语言，我真的真的很不错！:cowboy_hat_face:
     
-    * <iframe height='265' scrolling='no' title='Fancy Animated SVG Menu' src='http://codepen.io/jeangontijo/embed/OxVywj/?height=265&theme-id=0&default-tab=css,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'></iframe>
 
 ****
 
