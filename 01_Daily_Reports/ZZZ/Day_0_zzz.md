@@ -63,10 +63,6 @@ Highlight : == demo ==
 
 * 使用markdown放小视频
 
-    * <video src="./14966982-1-48.mp4"></video>
-
-    * 
-    
 
 ****
 
