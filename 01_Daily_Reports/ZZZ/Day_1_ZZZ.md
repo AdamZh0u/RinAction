@@ -14,8 +14,6 @@ E1=>operation: Evaluate the model fit
 E2=>operation: Evaluate model prediction on new data
 
 s->P->F->E1->C->E2->e
-
-
 ```
 
 * R is a case-sensitive, interpreted language.
@@ -147,7 +145,7 @@ example(Arthritis)
         })
         #
         with(df,{
-            a<-col1  # funcyional
+            a<-col1  # Local variable
             b<<-col2 # global
         })
         ```
